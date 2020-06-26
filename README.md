@@ -7,7 +7,7 @@
 
 ---
 
-![Preview](https://raw.githubusercontent.com/ahcantarim/javascript-getkcal/master/src/images/javascript-getkcal-01.png "Preview")
+![Preview](https://raw.githubusercontent.com/ahcantarim/javascript-getkcal/master/assets/images/javascript-getkcal-01.png "Preview")
 
 ## Sobre este projeto
 
