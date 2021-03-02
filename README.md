@@ -15,7 +15,7 @@
   <h3 align="center">Get Kcal</h3>
 
   <p align="center">
-    Calculadora da taxa de metabolismo basal utilizando *Vanilla Javascript*.
+    Calculadora da taxa de metabolismo basal utilizando Vanilla Javascript.
     <br />
     <br />
     <a href="https://github.com/ahcantarim/javascript-getkcal/issues">Ver problemas abertos</a>
